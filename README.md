@@ -26,7 +26,9 @@ O objetivo da atividade foi aplicar técnicas de aprendizado de máquina para pr
 
 
 ├── diabetes.csv # Dataset utilizado 
+
 ├── atividade_ml.ipynb # Notebook com respostas e códigos (principal)
+
 ├── README.md # Este arquivo
 
 ---
